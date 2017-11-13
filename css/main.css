@@ -1,0 +1,17 @@
+body {
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+  text-align: center;
+
+}
+ol li a {
+    color: #634aad;
+    font-size: 22px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+ol li a:hover {
+    text-shadow: 4px -4px 3px #aae5e9;
+}
